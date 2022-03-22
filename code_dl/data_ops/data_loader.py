@@ -8,7 +8,6 @@ import numpy as np
 import h5py
 
 DATA_PATH = 'data/data_CB/'
-DATA_PATH = '../denoising/data_full/'
 
 S_train = {'path': DATA_PATH,
            'list': 'train.txt',

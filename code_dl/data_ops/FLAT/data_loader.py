@@ -10,7 +10,6 @@ from code_dl.data_ops.FLAT.camera_parameters import  frequencies
 from code_dl.data_ops.FLAT.camera_parameters import  phase_offsets_neg as phase_offsets
 
 DATA_PATH = 'data/data_FLAT/'
-DATA_PATH = '../denoising/data_FLAT/'
 
 kinect_all = {'path': DATA_PATH + 'kinect/full/',
               'path_GT': DATA_PATH + 'kinect/gt/',

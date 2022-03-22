@@ -6,8 +6,7 @@
 from scipy.io import loadmat
 import numpy as np
 
-# DATA_PATH = 'data/data_agresti/'
-DATA_PATH = '../denoising/data_agresti/'
+DATA_PATH = 'data/data_agresti/'
 
 S1_test = {'path': DATA_PATH + 'S1/synthetic_dataset/test_set/test_',
            'path_GT': DATA_PATH + 'S1/synthetic_dataset/test_set/ground_truth/test_',
