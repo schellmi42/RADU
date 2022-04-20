@@ -1,6 +1,6 @@
 # RADU - Ray-Aligned Depth Update Convolutions for ToF Data Denoising
 
-### [Arxiv](https://arxiv.org/abs/2111.15513)
+### [Arxiv](https://arxiv.org/abs/2111.15513)|[Project Page](https://www.uni-ulm.de/in/mi/mi-forschung/viscom/publikationen?category=publication&publication_id=230)
 > RADU - Ray-Aligned Depth Update Convolutions for ToF Data Denoising <br />
 > [Michael Schelling](https://www.uni-ulm.de/?id=michael-schelling), [Pedro Hermosilla](https://www.uni-ulm.de/?id=pedro-hermosilla-casajus), [Timo Ropinski](https://www.uni-ulm.de/in/mi/institut/mitarbeiter/timo-ropinski/) <br />
 > Conference on Computer Vision and Patter Recognition (CVPR) - 2022
