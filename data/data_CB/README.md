@@ -18,11 +18,13 @@ The script `simulate_noise_on_correlations.py` can be used to simulate shot nois
 If you use this data in your work, please kindly cite the following paper:
 
 ```
-@InProceedings{schelling2022radu,
-author = {Schelling, Michael and Hermosilla, Pedro and Ropinski, Timo},
-title = {{RADU} - Ray-Aligned Depth Update Convolutions for {ToF} Data Denoising},
-booktitle = {Conference on Computer Vision and Patter Recognition (CVPR)},
-year = {2022}
+@InProceedings{Schelling_2022_CVPR,
+    author    = {Schelling, Michael and Hermosilla, Pedro and Ropinski, Timo},
+    title     = {RADU: Ray-Aligned Depth Update Convolutions for ToF Data Denoising},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {671-680}
 }
 ```
 
